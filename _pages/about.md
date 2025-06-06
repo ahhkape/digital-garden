@@ -4,6 +4,5 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
-
-Feel free to tell the world about what you love! 😍
+I'm a 21 year old economics student from France.
+This website is an experiment, to see how I like publishing my notes out in the open
