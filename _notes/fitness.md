@@ -31,3 +31,13 @@ Legs workout :
 - 4x Smith squat (up to 80kgs)
 - 4x Leg press (110kgs*)
 - 3x Leg extension (30kgs*)
+
+
+---
+That I could add : calves, abs, traps
+
+When travelling : 
+- Pushups
+- Bands : curls, pushback, front delts..
+- Pull-ups if available
+
