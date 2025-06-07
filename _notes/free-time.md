@@ -11,3 +11,4 @@ Here are better activities I can do in those moments. I'm jotting them down beca
 Reading a non-fiction book (Discworld...)   
 Go on a 1-2 hour walk in the city  
 Find friends to meet up with  
+Do some cardio  

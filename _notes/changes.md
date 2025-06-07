@@ -14,3 +14,4 @@ Lifestyle changes :
 - Less autistic behaviour : more empathy, small talk, agreeableness (especially with family)
 - Write more often
 - Lower sugar intake (even if 0 isn't realistic)
+- Meditate everyday
