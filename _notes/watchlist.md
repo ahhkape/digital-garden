@@ -17,3 +17,5 @@ Shows :
 
 Documentaries : 
 - Personne n'y comprend rien
+
+Once seen, they go [[netflix-seen|here]].
