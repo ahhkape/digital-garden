@@ -6,6 +6,7 @@ title: Changes I'd like to do
 
 **Use paper more often to help with thinking** (Dynomight)
 
+**Read more uncorrelated things**. Less current events and politics, more history and older writing.
 **More short trips with a group of friends** (Cowen)
 
 
