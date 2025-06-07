@@ -10,7 +10,7 @@ Here are the supplements I take :
 - Vitamine B12, as I'm vegan (1000μg, twice a week)
 - Iodized salt (I should aim for 1 teaspoon a day, but hard to reach)
 
-I also make sure to get enough protein [[fitness-routine|to build muscle]] :
+I also make sure to get enough protein [[fitness|to build muscle]] :
 - For breakfast : 2 soy yogurts, rolled oats, and almonds
 - 2 protein shakes (each have 1 protein scoop + 500mL of soy milk)
 	- The soy milk is reinforced with calcium and vitamin D
