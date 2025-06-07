@@ -23,3 +23,6 @@ August
 - One week in Nice with friends
 
 When I have some free time I'll try to do some [[fitness|exercice]] to not lose all my gains over the summer, and I'll read some blogs in my free time.
+
+Some skillsmaxxing I could do, but probably will not be motivated enough for: read econ papers, learn more econometrics (MHE or MM), watch some R videos ([tacit knowledge](https://en.wikipedia.org/wiki/Michael_Polanyi), R replications, vibe coding 
+What I will do for sure : re-read my notes from the S2 econometrics class
