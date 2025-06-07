@@ -24,5 +24,3 @@ Non-fiction
 
 
 ![Discworld reading order](/assets/discworld.pdf)
-
-![xxTJ score](/assets/xxTJ.pdf)
