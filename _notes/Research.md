@@ -23,5 +23,3 @@ Careers I could see myself having :
 - Research in a university
 - Research outside of a university : think tank, government department, international organization
 - CIA-analyst-type job 
-
-Test : a link to [[your-first-note|the guide]]

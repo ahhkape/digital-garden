@@ -4,7 +4,7 @@ title: Finding Happiness
 
 
 From Scott: 
-Erik Hoel is worried about the semantic apocalypse. In our modern world in which we have everything, it can seem like nothing is worth anything anymore. There may be society-wide solutions. However free will does exist and [[YCJDT]]. The solution Scott mentions is Chesterton's: just enjoy things. Be amazed.
+Erik Hoel is worried about the semantic apocalypse. In our modern world in which we have everything, it can seem like nothing is worth anything anymore. There may be society-wide solutions. However free will does exist and [[YCJDT]]. The solution Scott mentions is Chesterton's: Just Be Amazed. Enjoy things.
 
 
 
