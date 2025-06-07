@@ -23,5 +23,6 @@ Non-fiction
 - Daniel Cohen
 
 
-![Discworld reading order](/discworld.pdf)
+![Discworld reading order](/assets/discworld.pdf)
 
+![xxTJ score](/assets/xxTJ.pdf)

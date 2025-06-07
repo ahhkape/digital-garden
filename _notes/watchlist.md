@@ -18,5 +18,5 @@ Shows:
 Documentaries: 
 - Personne n'y comprend rien
 
-Once seen, they go [[netflix-seen|here]].
-For [[readlist|books]]
+The same for [[readlist|books]]  
+Once seen, they go [[netflix-seen|here]]
