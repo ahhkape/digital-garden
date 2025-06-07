@@ -25,3 +25,5 @@ Here I share notes, ideas, and learning in progress — not polished articles.
     max-width: 46em;
   }
 </style>
+
+[[graph]]
