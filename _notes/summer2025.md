@@ -2,7 +2,9 @@
 title: Summer of 2025
 ---
 
-Almost all of my university friends have an internship this summer. I didn't look for one. Here's what I've planned for the summer : 
+Almost all of my university friends have an internship this summer. I didn't look for one. I did want to do one initially, but my school has a stringent policy that didn't allow us to begin before the 1st of June. However I wanted to travel this summer, and an internship isn't that interesting if it's only for a few weeks, so I gave up on searching for one. I thought most people wouldn't do one, but almost everyone does actually. If I could go back, I would do probably find an internship just for the month of June.
+
+Here's what I've planned for the summer : 
 
 June
 - Helping my parents find and negotiate a loan, for a secondary home they're buying in Provence
