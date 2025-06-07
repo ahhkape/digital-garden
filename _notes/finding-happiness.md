@@ -1,21 +1,12 @@
 ---
-title: Leveraging AI
+title: Finding Happiness
 ---
 
-Socratic Tutoring
-- Vinay Ramasesh, via Dwarkesh : "I would benefit most from an explanation style in which you frequently pause to confirm, via asking me test questions, that I've understood your explanations so far. Particularly helpful are test questions related to simple, explicit examples. When you pause and ask me a test question, do not continue the explanation until I have answered the questions to your satisfaction. I.e. do not keep generating the explanation, actually wait for me to respond first. Thanks"
 
-Be better informed about cutitng edge AI, as a lay person. Easy way would be reading more Zvi
+From Scott: 
+Erik Hoel is worried about the semantic apocalypse. In our modern world in which we have everything, it can seem like nothing is worth anything anymore. There may be society-wide solutions. However free will does exist and [[YCJDT]]. The solution Scott mentions is Chesterton's: just enjoy things. Be amazed.
 
-Use the vocal mode more often : to while walking (I would need better earbuds)
 
-Use different AI's, instead of only ChatGPT. I'm not going to pay for different ones, but maybe the free version of eg. Claude or Gemini can be better for some use cases.
 
-Deep Research could probably be useful to me. But I never use it outside of school work.
-
-If I had the money, I would probably benefit from paying for more specialised tools, like those which summarise meetings or Copilot.
-
-New ways to use AI I've already started using, that I hadn't thought of before : 
-- To summarise long articles I'm not going to read
-- To plan trips
-- To make 
+Chesterton’s answer to the semantic apocalypse is to will yourself out of it: PERSONAL NOTE, DO THIS : BACK WITH MEDITATION, ENJOY THINGs
+- While Erik Hoel works on the systemic issue to semantic apocalypse, you should be thinking of your own individual soul
