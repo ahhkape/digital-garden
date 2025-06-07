@@ -14,7 +14,7 @@ For Home:
 - Paper whiteboard on the wall
 - Air filter/purifier (pollution+pollen), CO2 monitor
 - Measuring tape
-- Lightbulb kit (connected, very bright.. ; cf. https://www.benkuhn.net/lux/)
+- Lightbulb kit (connected, very bright.. ; cf. [Ben Kuhn](https://www.benkuhn.net/lux/))
 - Heavy duvet and **pillows**
 - **Second powerstrip**
 - **Slow-cooker and blender**
