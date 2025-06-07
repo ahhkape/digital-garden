@@ -15,6 +15,9 @@ Deep Research could probably be useful to me. But I never use it outside of scho
 
 If I had the money, I would probably benefit from paying for more specialised tools, like those which summarise meetings or Copilot.
 
+Make a better [[[[system-prompts|system prompt]]]]
+---
+
 New ways to use AI I've already started using, that I hadn't thought of before : 
 - To summarise long articles I'm not going to read
 - To plan trips
