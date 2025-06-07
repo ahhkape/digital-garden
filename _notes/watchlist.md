@@ -1,8 +1,8 @@
 ---
-title: Watchlist
+title: Watch list
 ---
 
-Movies : 
+Movies: 
 - The Apprentice
 - Movies with a female protagonist
 	- Kill Bill
@@ -12,10 +12,11 @@ Movies :
 - L'Auberge espagnole
 - Ace Ventura
 
-Shows : 
+Shows: 
 - Sopranos
 
-Documentaries : 
+Documentaries: 
 - Personne n'y comprend rien
 
 Once seen, they go [[netflix-seen|here]].
+For [[readlist|books]]
