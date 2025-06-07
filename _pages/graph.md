@@ -2,7 +2,7 @@
 layout: page
 title: Graph
 id: graph
-permalink: /
+permalink: /graph/
 ---
 
 {% include notes_graph.html %}
