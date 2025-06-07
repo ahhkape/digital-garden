@@ -26,4 +26,4 @@ Here I share notes, ideas, and learning in progress — not polished articles.
   }
 </style>
 
-[[graph]]
+[View the Graph](/graph/)
