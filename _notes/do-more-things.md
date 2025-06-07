@@ -2,6 +2,8 @@
 title: Do More Things
 ---
 
+Of course, [[YCJDT]]. Thus: 
+
 Internships  
 Join clubs (school, sport,..)
 Go to meet-ups and organized events
