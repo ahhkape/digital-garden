@@ -1,5 +1,5 @@
 ---
 title: Onebag packing list
 ---
-
- [[My supplements for the week|Supplements]]
+ 
+I bring [my supplements for the week](/Supplements)

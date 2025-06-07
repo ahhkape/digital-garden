@@ -10,6 +10,8 @@ Here are the supplements I take :
 - Vitamine B12 (Xmg, 2times a week)
 - Iodized salt
 
-I also make sure to get enough protein (needed to [[build protein|My fitness routine]]: 
+I also make sure to get enough protein [to build muscle](/Fitness routine)
+
+(needed to [[build protein|My fitness routine]]: 
 - For breakfast : 2 soy yogurts, rolled oats, and almonds
 - 2 protein shakes (each have 1 protein scoop + 500mL of soy milk)
